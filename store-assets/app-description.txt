@@ -1,0 +1,56 @@
+Sendo — The messenger without internet.
+
+Reach the people who matter, anywhere, anytime — even where Wi-Fi and mobile data don't exist. Sendo brings a clean, modern chat experience to plain SMS and MMS, so your messages always get through.
+
+Built for everyone with family or friends in remote places, low-coverage areas, or anywhere a cellular signal works but the internet does not.
+
+— WHAT MAKES SENDO DIFFERENT —
+
+NO INTERNET REQUIRED
+Sendo doesn't use Wi-Fi or mobile data to send messages. Everything goes through the regular cellular SMS and MMS service your SIM card already supports. If you can make a phone call, you can send a Sendo message.
+
+VOICE MESSAGES OVER SMS
+Record and send real voice notes that arrive as MMS audio attachments on any phone — iPhone, Android, even basic feature phones. Your loved ones don't need WhatsApp, Signal, Telegram, or any app to receive your voice. They just open their normal messages.
+
+BEAUTIFUL, FAMILIAR CHAT INTERFACE
+A polished, WhatsApp-style chat experience for the SMS messages you already send every day. Bubbles, voice playback, contact info, delete options — everything you expect from a modern messenger, but powered by reliable SMS instead of fragile internet.
+
+WORKS WITH ANY PHONE ON THE OTHER END
+The person you message doesn't need Sendo. They don't need internet. They don't need anything special — just any phone with a SIM card. Your message arrives as a regular text or MMS in their default messages app.
+
+PRIVATE BY DESIGN
+Sendo doesn't run servers. Your contacts and conversations stay on your device. No cloud sync, no analytics, no tracking, no advertising. Your messages travel through your carrier directly — the same way SMS has worked for thirty years.
+
+— PERFECT FOR —
+
+• Reaching family in rural areas, villages, or low-signal regions
+• Travelers and people in places where data roaming is expensive or unreliable
+• Anyone who wants a beautiful, focused SMS experience instead of cluttered default apps
+• Sending voice notes to people who don't use WhatsApp or other internet messengers
+• Communicating during outages, emergencies, or in low-connectivity environments
+
+— HOW IT WORKS —
+
+1. Open Sendo and tap the green + to add a contact, either by picking from your phone's contact list or entering a name and number manually.
+
+2. Tap the contact to open a chat. Type your message and tap send — Apple's secure compose sheet appears with your message already prepared. Tap send to deliver it through your carrier.
+
+3. To record a voice note, press and hold the microphone, speak, and release. The audio is automatically packaged as an MMS attachment.
+
+4. Replies arrive in your iPhone's regular Messages app — Sendo doesn't take over your inbox. You stay in control.
+
+— PRICING —
+
+Sendo is a one-time purchase. No subscriptions. No monthly fees. No advertising. Pay once, own forever, on every device you use with your Apple ID.
+
+— TECHNICAL REQUIREMENTS —
+
+• Active SIM card with SMS service
+• Cellular Data toggled on in iPhone Settings (used only by iOS for MMS attachments — does not consume your data plan for text messages)
+• iOS 15 or newer
+
+— SUPPORT —
+
+Have questions or feedback? Reach our team on WhatsApp at +252 63 406 3867, or visit our support page linked below.
+
+Sendo is built for everyone who has ever wanted to send a message and been blocked by a slow connection. Welcome to messaging that just works.
